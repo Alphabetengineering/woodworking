@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <title>Woodworking Website</title>
+  </head>
+  <body>
+    <header>
+      <h1>Woodworking Tips and Tricks</h1>
+      <nav>
+        <ul>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#tools">Tools</a></li>
+          <li><a href="#resources">Resources</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="projects">
+        <h2>Project Ideas</h2>
+        <p>Check out some of our favorite woodworking projects:</p>
+        <ul>
+          <li>Birdhouse</li>
+          <li>Bookshelf</li>
+          <li>Outdoor Bench</li>
+        </ul>
+      </section>
+      <section id="tools">
+        <h2>Essential Tools</h2>
+        <p>Every woodworker needs these tools in their toolkit:</p>
+        <ul>
+          <li>Hammer</li>
+          <li>Saw</li>
+          <li>Drill</li>
+        </ul>
+      </section>
+      <section id="resources">
+        <h2>Helpful Resources</h2>
+        <p>Get inspired and learn more about woodworking:</p>
+        <ul>
+          <li><a href="https://www.popularwoodworking.com/">Popular Woodworking</a></li>
+          <li><a href="https://www.finewoodworking.com/">Fine Woodworking</a></li>
+          <li><a href="https://www.thewoodwhisperer.com/">The Wood Whisperer</a></li>
+        </ul>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; Woodworking Website</p>
+    </footer>
+  </body>
+</html>
+
